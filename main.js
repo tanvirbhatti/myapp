@@ -11,4 +11,4 @@ fs.readFile("./public/index.html",'UTF-8',function(err,html){
 })
 
 }).listen(8081);
-console.log('server is running at http://127.0.0.1:8081/')
+console.log('server is running at http://127.0.0.1:8081/')  
